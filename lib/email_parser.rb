@@ -12,4 +12,4 @@ class EmailAddressParser
   end
   
   def parse 
-    @e
+    @email_addresses.collect
